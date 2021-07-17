@@ -8,4 +8,4 @@
 ### Install using Docker
 1. Clone this app from github
 2. Build the docker image `docker build -t dennydenny96/dkatalis .`
-3. Then run the application `docker run -it adennydenny96/dkatalis`
+3. Then run the application `docker run -it dennydenny96/dkatalis`
